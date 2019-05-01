@@ -1,0 +1,103 @@
+.logo {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+.logo span {
+ line-height: 50px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: left; 
+    color: brown;
+    border-left: 2px solid  brown; 
+    border-radius: 2px;
+   
+}
+
+li {
+    list-style: none;
+    margin: 5px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    width: 95%;
+}
+
+p {
+    width: 90%;
+    padding: 20px;
+    padding-top: 5px; 
+    margin: 0px;
+    border-bottom:  1px solid brown ;
+    margin-bottom: 10px;
+}
+
+form  {
+    width: 90%;
+    display: table;
+    text-align: left;
+  
+}
+
+form div {
+    display: table-row-group;
+    padding: 5px;
+}
+
+
+form label , form input {
+    display: table-cell;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+form input[type="submit"]{
+    border-bottom:  1px solid brown ;
+    color: brown;
+    background-color: aliceblue;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.progres-25 {
+ 
+   
+    width: 25%;
+    border-bottom: 2px solid green;
+    margin:5px; 
+    padding: 0px;
+}
+
+.progres-50 {
+ 
+  
+    width: 50%;
+    border-bottom: 2px solid green;
+    margin:5px; 
+    padding: 0px;
+}
+
+.progres-75 {
+ 
+   
+    width: 75%;
+    border-bottom: 2px solid green;
+    margin:5px; 
+    padding: 0px;
+}

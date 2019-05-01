@@ -1,0 +1,46 @@
+{
+    "hello-world": [
+        {
+            "type": "c++",
+            "url": "event-type.html?type_form=cpp&type=hello-world"
+        },
+
+        {
+            "type": "java",
+            "url": "event-type.html?type_form=java&type=hello-world"
+
+        },
+        {
+            "type": "php",
+            "url": "event-type.html?type_form=php&type=hello-world"
+
+        }
+
+
+
+    ],
+
+
+    "wedding": [
+        {
+            "type": "small",
+            "url": "event-type.html?type_form=small&type=wedding"
+        },
+
+        {
+            "type": "mediam",
+            "url": "event-type.html?type_form=mediam&type=wedding"
+
+        },
+        {
+            "type": "big",
+            "url": "event-type.html?type_form=big&type=wedding"
+
+        }
+
+
+
+    ]
+
+
+}

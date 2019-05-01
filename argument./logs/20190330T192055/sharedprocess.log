@@ -1,0 +1,32 @@
+[2019-03-30 19:20:59.871] [sharedprocess] [info] main {"machineId":"f51d219679221c2422f74b8827ee012eb2cfa897ae97e643678e7885f090dddc"}
+[2019-03-30 19:20:59.970] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:20:59.996] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:20:59.998] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:21:00.065] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-30 19:21:00.072] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-30 19:21:00.076] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-30 19:21:02.540] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:21:04.917] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2019-03-30 19:21:04.917] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2019-03-30 19:21:04.923] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:21:04.927] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:21:06.398] [sharedprocess] [info] Downloaded extension: dart-code.flutter /tmp/50f55a90-d46b-466d-a781-32a83a3515f8
+[2019-03-30 19:21:06.440] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dart-code.flutter-2.25.0: dart-code.flutter
+[2019-03-30 19:21:06.441] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dart-code.flutter-2.25.0
+[2019-03-30 19:21:06.442] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2019-03-30 19:21:06.552] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:21:06.579] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-30 19:21:06.579] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2019-03-30 19:21:14.977] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /tmp/ddb2fee4-8ccd-4e76-a5c8-0e37534112f9
+[2019-03-30 19:21:15.334] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dart-code.dart-code-2.25.0: dart-code.dart-code
+[2019-03-30 19:21:15.334] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dart-code.dart-code-2.25.0
+[2019-03-30 19:21:15.337] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2019-03-30 19:21:15.430] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2019-03-30 19:21:39.881] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-30 19:26:02.551] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:31:02.562] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:36:02.576] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:41:02.591] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:46:02.601] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:51:02.654] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-30 19:56:02.664] [sharedprocess] [info] Scanned user extensions: 3

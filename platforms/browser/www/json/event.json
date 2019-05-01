@@ -1,0 +1,17 @@
+[
+    {
+        "type": "hello world",
+        "url": "event.html?type=hello-world"
+    },
+
+    {
+        "type": "wedding",
+        "url": "event.html?type=wedding"
+
+    },
+    {
+        "type": "corporate",
+        "url": "event-type.html?type=corporate&type_form=small"
+
+    }
+]

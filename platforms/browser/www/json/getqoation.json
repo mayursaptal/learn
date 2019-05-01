@@ -1,0 +1,50 @@
+{
+    "hello-world": [
+        {
+            "type": "cpp",
+            "description": "void main()  <br >{ print  \"hello\" ; }"
+        },
+
+        {
+            "type": "java",
+            "description": " print java"
+        },
+        {
+            "type": "php",
+            "description": "echo \"php \""
+        }
+
+
+
+    ],
+
+
+    "wedding": [
+        {
+            "type": "small",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, repudiandae facere vero, doloremque nostrum et asperiores unde, facilis laborum nulla ut velit sunt. Aspernatur, magni laboriosam vero a quod dolores?        "
+        },
+
+        {
+            "type": "mediam",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, repudiandae facere vero, doloremque nostrum et asperiores unde, facilis laborum nulla ut velit sunt. Aspernatur, magni laboriosam vero a quod dolores?        "
+
+        },
+        {
+            "type": "big",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, repudiandae facere vero, doloremque nostrum et asperiores unde, facilis laborum nulla ut velit sunt. Aspernatur, magni laboriosam vero a quod dolores?        "
+
+        }
+
+
+
+    ],
+
+    "corporate": [
+        {
+            "type": "small",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, repudiandae facere vero, doloremque nostrum et asperiores unde, facilis laborum nulla ut velit sunt. Aspernatur, magni laboriosam vero a quod dolores?        "
+        }
+    ]
+
+}
