@@ -10,7 +10,7 @@ var mailSettings = {
     emailTo: email,
     smtp: "smtp.gmail.com",
     smtpUserName: "mayursaptal@gmail.com",
-    smtpPassword: "M@yuR081701",
+    smtpPassword: "******",
     attachmentsInBase64Format: [],
     subject: name + " qotation request",
     textBody: 'Dear ' + name + ', \n you are register for ' + event + ' - ' + type_form + ' with phone ' + phone + ' \n thank you '
